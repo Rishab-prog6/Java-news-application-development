@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_home"
+        android:title="首页"
+        android:icon="@drawable/ic_home" />
+
+    <item
+        android:id="@+id/nav_favorite"
+        android:title="收藏"
+        android:icon="@drawable/ic_favorite" />
+
+    <item
+        android:id="@+id/nav_history"
+        android:title="历史"
+        android:icon="@drawable/ic_history" />
+
+</menu>

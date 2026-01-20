@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">lsf新闻</string>
+
+    <!-- 底部导航 -->
+    <string name="nav_home">首页</string>
+    <string name="nav_search">搜索</string>
+    <string name="nav_favorite">收藏</string>
+    <string name="nav_history">历史</string>
+
+    <!-- 新闻相关 -->
+    <string name="news_title">新闻标题</string>
+    <string name="news_content">新闻内容</string>
+    <string name="news_source">新闻来源</string>
+    <string name="news_time">发布时间</string>
+    <string name="news_category">新闻分类</string>
+
+    <!-- 操作按钮 -->
+    <string name="btn_search">搜索</string>
+    <string name="btn_refresh">刷新</string>
+    <string name="btn_load_more">加载更多</string>
+    <string name="btn_favorite">收藏</string>
+    <string name="btn_unfavorite">取消收藏</string>
+    <string name="btn_share">分享</string>
+    <string name="btn_generate_summary">生成摘要</string>
+
+    <!-- 提示信息 -->
+    <string name="toast_network_error">网络连接失败</string>
+    <string name="toast_load_failed">加载失败</string>
+    <string name="toast_no_more_data">没有更多数据</string>
+    <string name="toast_favorite_added">已添加到收藏</string>
+    <string name="toast_favorite_removed">已取消收藏</string>
+    <string name="toast_summary_generating">正在生成摘要...</string>
+    <string name="toast_summary_failed">摘要生成失败</string>
+
+    <!-- 搜索相关 -->
+    <string name="search_hint">搜索新闻、日期(2025-01-15)或今天/昨天...</string>
+    <string name="search_no_result">没有找到相关新闻</string>
+    <string name="search_category_all">全部</string>
+    <string name="search_date_format_hint">请输入正确的日期格式: yyyy-mm-dd，或使用"今天"、"昨天"等关键词</string>
+    <string name="search_date_support">支持输入: 具体日期(2025-07-18)、今天、昨天、前天、明天</string>
+
+    <!-- 分类 -->
+    <string name="category_all">全部</string>
+    <string name="category_tech">科技</string>
+    <string name="category_finance">财经</string>
+    <string name="category_sports">体育</string>
+    <string name="category_entertainment">娱乐</string>
+    <string name="category_military">军事</string>
+    <string name="category_education">教育</string>
+    <string name="category_culture">文化</string>
+    <string name="category_health">健康</string>
+    <string name="category_auto">汽车</string>
+    <string name="category_society">社会</string>
+
+    <!-- 空状态 -->
+    <string name="empty_news">暂无新闻</string>
+    <string name="empty_search">暂无搜索结果</string>
+    <string name="empty_favorite">暂无收藏</string>
+    <string name="empty_history">暂无历史记录</string>
+
+    <!-- 详情页 -->
+    <string name="detail_title">新闻详情</string>
+    <string name="detail_summary_title">AI 智能摘要</string>
+    <string name="detail_video_play_error">视频播放失败</string>
+
+    <!-- 通用 -->
+    <string name="loading">加载中...</string>
+    <string name="retry">重试</string>
+    <string name="confirm">确定</string>
+    <string name="cancel">取消</string>
+    <string name="unknown">未知</string>
+
+</resources>
